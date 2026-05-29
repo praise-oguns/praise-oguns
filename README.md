@@ -62,8 +62,7 @@ I'm a Cloud and Infrastructure professional based in Scotland, currently complet
 ## 📜 Certifications
 
 - 🟡 **AWS Certified Cloud Practitioner** — Exam scheduled June 2026
-- 📋 **CompTIA Network+** — In Progress
-- 📋 **CompTIA Security+** — Planned
+- 📋 **AWS Certified Solutions Architect Associate** — Planned
 - 📋 **AZ-900 Microsoft Azure Fundamentals** — Planned
 - 📋 **SC-900 Microsoft Security Fundamentals** — Planned
 
