@@ -8,8 +8,8 @@ I'm a Cloud and Infrastructure professional based in Scotland, currently complet
 
 - 🎓 HNC Computing — Edinburgh College | HND Cloud & Network Infrastructure — New College Lanarkshire
 - ☁️ Hands-on experience with **AWS**, **Azure**, **Windows Server**, and **Linux**
-- 🔐 Passionate about **cloud security**, **infrastructure automation**, and **DevOps**
-- 📚 Currently studying for **AWS Cloud Practitioner** and **AWS Solutions Architect Associate**
+- 🔐 Passionate about **cloud security**, **infrastructure, automation**, and **DevOps**
+- 📚 AWS Certified Cloud Practicioner**
 - 🛠️ Always building — check my repos below
 
 ---
