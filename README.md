@@ -1,16 +1,16 @@
 # Hi, I'm Praise 👋
 
-I'm a Cloud and Infrastructure professional based in Scotland, holding an **HND in Networking and Cloud Infrastructure (Merit)** from New College Lanarkshire. I build, document, and secure cloud infrastructure — and I'm working towards a career as a **Cloud Engineer**.
+I'm a Cloud Infrastructure and Security professional based in Scotland,AWS Certified Cloud Practicioner holding an **HND in Networking and Cloud Infrastructure** from New College Lanarkshire. I build, document, and secure cloud infrastructure and I'm working towards a career as a **Cloud Engineer**.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 HNC Computing — Edinburgh College | HND Networking & Cloud Infrastructure (Merit) — New College Lanarkshire
+- 🎓 HNC Computing — Edinburgh College(Grade A) | HND Networking & Cloud Infrastructure (Merit) — New College Lanarkshire
 - ☁️ Hands-on experience with **AWS**, **Azure**, **Windows Server**, and **Linux**
-- 🔐 Passionate about **cloud security**, **infrastructure automation**, and **DevOps**
+- 🔐 Passionate about **cloud and cloud security**, **infrastructure automation**, **cybersecurity** and **DevOps**
 - 📚 **AWS Certified Cloud Practitioner** | Working towards **CCNA** (targeting October 2026)
-- 🛠️ Always building — check my repos below
+- 🛠️ Actively building — check my repos below
 
 ---
 
@@ -52,7 +52,6 @@ I'm a Cloud and Infrastructure professional based in Scotland, holding an **HND 
 - ✅ **AWS Certified Cloud Practitioner** — Passed, July 2026
 - 🟡 **Cisco Certified Network Associate (CCNA)** — In progress, targeting October 2026
 - 📋 **AWS Certified Solutions Architect Associate** — Planned
-- 📋 **AZ-900 Microsoft Azure Fundamentals** — Planned
 
 ---
 
@@ -78,4 +77,4 @@ I'm a Cloud and Infrastructure professional based in Scotland, holding an **HND 
 
 ---
 
-*Currently open to Junior Cloud Engineer, Infrastructure, and Cybersecurity opportunities*
+*Currently open to Cloud, Infrastructure, Networking and Cybersecurity opportunities*
